@@ -12,6 +12,12 @@
 
 如果你使用的是 `E-INK` 電子書閱讀器想閱讀，我會建議選擇 greyscale，這樣就算是用彩色電子紙 kaleido 3，程式碼的部分仍會是 300PPI。
 
+## 閱讀軟體/閱讀器
+
+目前我只有測試以下方式，歡迎回報問題
+* Hyread Gaze Pro XC : 檔案放入 `書櫃`的`匯入`區，打開來看沒問題，如果是放到`個人藏書`打開看，會比較怪，尤其是 LIST 部分每行間距太大了。
+* Calibre 內建的閱讀軟體沒問題
+
 ## 免責聲明
 
 1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，也就是請 AI 進行翻譯，後續有機會會校稿，該專案近日內會 Public , 目前在整理 code 中。
