@@ -1,6 +1,9 @@
 # Laravel 說明文件 EPUB 繁體版
 
+因網路上找不到繁體版 EPUB , 所以自己做了
+
 ## 檔名解說
+
 以 Laravel-12-Documentationc-zh_TW-color.epub 為例子
 
 - 這份文件是 Laravel 12
@@ -8,3 +11,11 @@
 - color 代表程式碼的部分是彩色的 , 如果是 greyscale 則程式碼的部分是黑白灰街的
 
 如果你使用的是 `E-INK` 電子書閱讀器想閱讀，我會建議選擇 greyscale，這樣就算是用彩色電子紙 kaleido 3，程式碼的部分仍會是 300PPI。
+
+## 免責聲明
+
+1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，也就是請 AI 進行翻譯，後續有機會會校稿，該專案近日內會 Public , 目前在整理 code 中。
+2. 若對內容有疑慮，可至 https://github.com/laradoc-trans-lab/laravel_docs-zh_TW 提 Issue，此為翻譯後的 Markdown
+3. EPUB 版本也是透過某某工具來製作的，近日也會整理後 PUBLIC 出來。
+4. 如果有翻譯錯誤，一切以 Laravel 官方為主。
+5. 著作權屬於 Laravel 官方，本人只是透過工具翻譯並分享出來給大家用。
