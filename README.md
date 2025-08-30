@@ -22,6 +22,11 @@
   * 放到`個人藏書`打開看，不建議，尤其是 LIST 部分每行間距太大了，看起來是與 `書櫃` 使用的瀏覽引擎不同。
 * Calibre 內建的閱讀軟體沒問題，LCD 螢幕不論是 greyscale 或 color 兩種版本都有呈現該有的程式碼高亮效果。
 
+## 相關連結
+
+* [翻譯好的文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW)
+* [轉換方式與工具](https://github.com/laradoc-trans-lab/laradoc-sphinx-epub)
+
 ## 免責聲明
 
 1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，也就是請 AI 進行翻譯，後續有機會會校稿，該專案近日內會 Public , 目前在整理 code 中。
