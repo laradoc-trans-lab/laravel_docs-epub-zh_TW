@@ -29,8 +29,7 @@
 
 ## 免責聲明
 
-1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，也就是請 AI 進行翻譯，後續有機會會校稿，該專案近日內會 Public , 目前在整理 code 中。
-2. 若對內容有疑慮，可至 https://github.com/laradoc-trans-lab/laravel_docs-zh_TW 提 Issue，此為翻譯後的 Markdown
-3. EPUB 版本也是透過某某工具來製作的，近日也會整理後 PUBLIC 出來。
+1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，是以 AI 進行翻譯，該專案近日內會 Public , 目前在整理 code 中。
+2. 若對內容有疑慮，可至[翻譯好的文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW) 提 Issue 校正，此為翻譯後的 Markdown 檔案，結構與官方文件一致。
 4. 如果有翻譯錯誤，一切以 Laravel 官方為主。
-5. 著作權屬於 Laravel 官方，本人只是透過工具翻譯並分享出來給大家用。
+5. **著作權屬於 Laravel 官方，本專案僅提供翻譯好的檔案並分享出來給大家用。**
