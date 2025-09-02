@@ -26,7 +26,7 @@
 
 EPUB 檔產生主要是透過以下三個專案達成的
 
-* [翻譯工具](https://githib/laradoc-trans-lab/laradoc-trans) : 透過 AI 翻譯
+* [翻譯工具](https://github.com/laradoc-trans-lab/laradoc-trans) : 透過 AI 技術進行大量翻譯的工具
 * [翻譯好的繁體文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW) : 透過翻譯工具翻譯好的 MARKDOWN 都放於此
 * [轉換方式與工具](https://github.com/laradoc-trans-lab/laradoc-sphinx-epub) : 將 MARKDOWN 轉換為 EPUB 的工具
 
