@@ -24,12 +24,14 @@
 
 ## 相關連結
 
-* [翻譯好的文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW)
-* [轉換方式與工具](https://github.com/laradoc-trans-lab/laradoc-sphinx-epub)
+EPUB 檔產生主要是透過以下三個專案達成的
+
+* [翻譯工具](https://githib/laradoc-trans-lab/laradoc-trans) : 透過 AI 翻譯
+* [翻譯好的繁體文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW) : 透過翻譯工具翻譯好的 MARKDOWN 都放於此
+* [轉換方式與工具](https://github.com/laradoc-trans-lab/laradoc-sphinx-epub) : 將 MARKDOWN 轉換為 EPUB 的工具
 
 ## 免責聲明
 
-1. 翻譯內容是採用 https://github.com/laradoc-trans-lab/laradoc-trans 先行翻譯的，是以 AI 進行翻譯，該專案近日內會 Public , 目前在整理 code 中。
-2. 若對內容有疑慮，可至[翻譯好的文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW) 提 Issue 校正，此為翻譯後的 Markdown 檔案，結構與官方文件一致。
-4. 如果有翻譯錯誤，一切以 Laravel 官方為主。
-5. **著作權屬於 Laravel 官方，本專案僅提供翻譯好的檔案並分享出來給大家用。**
+1. 若對內容有疑慮，可至[翻譯好的文件](https://github.com/laradoc-trans-lab/laravel_docs-zh_TW) 提 Issue 校正，此為翻譯後的 Markdown 檔案，結構與官方文件一致。
+2. 如果有翻譯錯誤，一切以 Laravel 官方為主。
+3. **著作權屬於 Laravel 官方，本專案僅提供翻譯好的檔案並分享出來給大家用。**
